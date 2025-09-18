@@ -67,7 +67,7 @@ OpenCV와 PyQt5를 활용하여 개발된 포토샵과 유사한 기능을 제�
 
 1. **저장소 클론**
 ```bash
-git clone [repository-url]
+git clone https://github.com/toran1678/PhotoMate.git
 cd PhotoMate
 ```
 
@@ -96,18 +96,7 @@ PhotoMate/
 ├── main.py              # 메인 프로그램 파일
 ├── requirements.txt     # 필요한 패키지 목록
 ├── README.md           # 프로젝트 설명서
-└── icons/              # 프로그램 아이콘들
-    ├── photomate.png
-    ├── new_file.png
-    ├── open.png
-    ├── save.png
-    ├── undo.png
-    ├── redo.png
-    ├── exit.png
-    ├── info.png
-    ├── grayscale.png
-    ├── flip_image_horizontal.png
-    └── flip_image_vertical.png
+└── icons              # 프로그램 아이콘들
 ```
 
 ## 사용 방법
@@ -160,5 +149,6 @@ PhotoMate/
 ## 개발자
 
 **소프트웨어학과 2020E7309 김선빈**
+
 
 **PhotoMate**로 창의적인 이미지 편집을 즐겨보세요!
